@@ -1,0 +1,26 @@
+_repo: My-three-years-in-Manipur-b-and-escape-from-the-recent-mutiny_71726
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Grimwood, Ethel St. Clair
+    gutenberg_agent_id: '56358'
+    url: http://www.gutenberg.org/2009/agents/56358
+description: ''
+gutenberg_issued: '2023-09-25'
+identifiers:
+  gutenberg: '71726'
+language: en
+pgterms:marc904: https://archive.org/details/mythreeyearsinma01grim
+pgterms:marc905: 20210619122116grimwood
+pgterms:marc906: '1891'
+pgterms:marc907: gb
+production_note: Peter Becker and the Online Distributed Proofreading Team at https://www.pgdp.net
+  (This file was produced from images generously made available by The Internet Archive)
+publication_note: '  $aLondon :$bRichard Bentley and son, $c1891.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: 'My three years in Manipur : $b and escape from the recent mutiny'
+url: http://www.gutenberg.org/ebooks/71726
