@@ -1,11 +1,16 @@
 _repo: My-three-years-in-Manipur-b-and-escape-from-the-recent-mutiny_71726
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 71726-h/images/cover-deco.jpg
 creator:
   author:
     agent_name: Grimwood, Ethel St. Clair
     gutenberg_agent_id: '56358'
     url: http://www.gutenberg.org/2009/agents/56358
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/71726#My-three-years-in-Manipur-b-and-escape-from-the-recent-mutiny
 gutenberg_issued: '2023-09-25'
 identifiers:
   gutenberg: '71726'
